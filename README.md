@@ -1,0 +1,2 @@
+# shamirSecretSharing
+A little demo
